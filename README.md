@@ -20,8 +20,8 @@ The application uses a client-server architecture with a streaming response to a
 ## Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [your_repo_url]
-    cd [your_repo_url]/inconsistency_app
+    git clone https://github.com/estside/PPT_Inconsistency/
+    cd https://github.com/estside/PPT_Inconsistency/inconsistency_app
     ```
 2.  **Create a virtual environment and install dependencies:**
     ```bash
