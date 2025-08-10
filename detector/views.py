@@ -11,7 +11,7 @@ import io
 
 
 # Configure Gemini API key
-GEMINI_API_KEY = "AIzaSyC0pMYP1DM4wInATA5596-jdE_v_ZNVYGM"
+GEMINI_API_KEY = "enter ur api key"
 if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY environment variable is not set.")
 
